@@ -18,7 +18,7 @@ if (rank <= 10){
 }else if (rank >= 21 && rank <= 50){
     console.log("O Herói "+usuario+" Tem saldo de "+rank+" vitórias e está no Rank Prata")
 }else if (rank >= 51 && rank <= 80){
-    console.log("O Herói "+usuario+" Tem saldo de "+rank+" vitórias e está no Rankk Ouro")
+    console.log("O Herói "+usuario+" Tem saldo de "+rank+" vitórias e está no Rank Ouro")
 }else if (rank >= 81 && rank <= 90){
     console.log("O Herói "+usuario+" Tem saldo de "+rank+" vitórias e está no Rank Diamante")
 }else if (rank >= 91 && rank <= 100){
